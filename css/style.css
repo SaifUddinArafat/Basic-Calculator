@@ -1,3 +1,26 @@
 body{
     margin-left: 35%;
 }
+#display{
+    width: 450px;
+    height: 70px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+#button{
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    font-size: 60px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.numButton{
+    background-color: blue;
+}
+
+.symboleButton{
+    background-color: brown;
+}
+
